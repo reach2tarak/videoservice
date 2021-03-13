@@ -1,0 +1,114 @@
+{% extends "base.html" %}
+
+{% block start %}
+    <style>
+        .StripeElement {
+            box-sizing: border-box;
+            height: 40px;
+            padding: 10px 12px;
+            border: 1px solid transparent;
+            border-radius: 4px;
+            background-color: white;
+            box-shadow: 0 1px 3px 0 #e6ebf1;
+            -webkit-transition: box-shadow 150ms ease;
+            transition: box-shadow 150ms ease;
+        }
+        .StripeElement--focus {
+            box-shadow: 0 1px 3px 0 #cfd7df;
+        }
+        .StripeElement--invalid {
+            border-color: #fa755a;
+        }
+        .StripeElement--webkit-autofill {
+            background-color: #fefde5 !important;
+        }
+    </style>
+    <script src="https://js.stripe.com/v3/"></script>
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-lg-6">
+                <h3>Why become pro?</h3>
+                <p>The Lazy Brown Fox Jumps Over the Lazy Dog. The Lazy Brown Fox Jumps Over the Lazy Dog. The Lazy Brown Fox Jumps Over the Lazy Dog</p>
+                <form action="" method="post" id="payment-form">
+                    {% csrf_token %}
+                    <div class="form-group">
+                        <label>Membership Type</label>
+                        <select class="form-control" name="membership">
+                            <option value="">Choose</option>
+                            <option value="MONTHLY">Monthly - 1000 ₹</option>
+                            <option value="YEARLY">Yearly - 11000 ₹</option>
+                        </select>
+                    </div>
+
+                    <div>
+                        <label for="card-element">
+                            Credit or Debit Card
+                        </label>
+                        <div id="card-element">
+
+                        </div>
+                        <div id="card-errors">
+
+                        </div>
+                    </div>
+
+                    <button class="btn btn-primary mt-3">Become Pro</button>
+                </form>
+            </div>
+            <div class="col-lg-6">
+                <img src="https://freetutorialshub.com/wp-content/uploads/2019/10/2209442_afe5_3-660x330.jpg" class="img-responsive">
+            </div>
+        </div>
+    </div>
+    <script>
+        var stripe = Stripe('pk_test_51ITMcGC8w7nHhL7ibK5kUSLQnu8R66br7gFL7wMpFzsmpfJQBgzYmRA2VFViUJCfDHHsJP8YUdIHnn8gS9PwUjXC00HcM55GY7');
+        var elements = stripe.elements();
+
+        var style = {
+          base: {
+            color: '#32325d',
+            fontFamily: '"Helvetica Neve", Helvetica, sans-serif',
+            fontSize: '16px',
+          },
+        };
+
+        // Create an instance of the card Element.
+        var card = elements.create('card', {style: style});
+
+        // Add an instance of the card Element into the `card-element` <div>.
+        card.mount('#card-element');
+
+
+        // Create a token or display an error when the form is submitted.
+        var form = document.getElementById('payment-form');
+        form.addEventListener('submit', function(event) {
+          event.preventDefault();
+
+          stripe.createToken(card).then(function(result) {
+            if (result.error) {
+              // Inform the customer that there was an error.
+              var errorElement = document.getElementById('card-errors');
+              errorElement.textContent = result.error.message;
+            } else {
+              // Send the token to your server.
+              stripeTokenHandler(result.token);
+            }
+          });
+        });
+
+        function stripeTokenHandler(token) {
+          // Insert the token ID into the form so it gets submitted to the server
+          var form = document.getElementById('payment-form');
+          var hiddenInput = document.createElement('input');
+          hiddenInput.setAttribute('type', 'hidden');
+          hiddenInput.setAttribute('name', 'stripeToken');
+          hiddenInput.setAttribute('value', token.id);
+          form.appendChild(hiddenInput);
+
+          // Submit the form
+          form.submit();
+        }
+    </script>
+
+
+{% endblock %}

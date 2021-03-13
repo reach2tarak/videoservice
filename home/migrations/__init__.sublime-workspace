@@ -1,0 +1,803 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"op",
+				"operation"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"conta",
+				"contactList"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"je",
+				"json_decode"
+			],
+			[
+				"ba",
+				"base64_encode"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"file_",
+				"file_exists"
+			],
+			[
+				"uplo",
+				"upload"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"ses_",
+				"ses_user_id"
+			],
+			[
+				"ses",
+				"ses_user_info"
+			],
+			[
+				"ses_u",
+				"ses_user_info"
+			],
+			[
+				"ses_user",
+				"ses_user_info"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"ne",
+				"new_data2"
+			],
+			[
+				"pred",
+				"predict"
+			],
+			[
+				"y",
+				"y_pred"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"re",
+				"render_template"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"sa",
+				"sami_data_en"
+			],
+			[
+				"Ba",
+				"background-color"
+			],
+			[
+				"st",
+				"start_mm"
+			],
+			[
+				"is_n",
+				"is_numeric"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"Num",
+				"numNewDisplayCaption"
+			],
+			[
+				"star",
+				"startTime"
+			],
+			[
+				"las",
+				"last_cursor"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"curs",
+				"cursorID"
+			],
+			[
+				"ca",
+				"caption"
+			],
+			[
+				"mediu",
+				"medium-font"
+			],
+			[
+				"toek",
+				"token_errors"
+			],
+			[
+				"pri",
+				"println\tprintln!(…)"
+			],
+			[
+				"matter",
+				"matter_details"
+			],
+			[
+				"cu",
+				"curr_date"
+			],
+			[
+				"ex_",
+				"ex_file2"
+			],
+			[
+				"ex_f",
+				"ex_file1"
+			],
+			[
+				"m",
+				"module"
+			],
+			[
+				"date_",
+				"date_diff"
+			],
+			[
+				"us",
+				"usort"
+			],
+			[
+				"che",
+				"check_dd"
+			],
+			[
+				"due_date",
+				"due_date_priority"
+			],
+			[
+				"_f",
+				"_FILES"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"toke",
+				"token_error_msg"
+			],
+			[
+				"toe",
+				"token_errors"
+			],
+			[
+				"token",
+				"token_error_msg"
+			],
+			[
+				"prop",
+				"prop_arr"
+			],
+			[
+				"token_e",
+				"token_errors"
+			],
+			[
+				"user",
+				"userDetails"
+			],
+			[
+				"Ma",
+				"Map"
+			],
+			[
+				"mail",
+				"mail_body"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"body",
+				"bodyVal"
+			],
+			[
+				"bod",
+				"bodyVal"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"w",
+				"word"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"serv",
+				"servermod"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"doc",
+				"doc_type_id"
+			],
+			[
+				"glo",
+				"GLOBALS"
+			],
+			[
+				"server",
+				"servermodApi"
+			],
+			[
+				"next",
+				"next_servermod"
+			],
+			[
+				"ser",
+				"servermod"
+			],
+			[
+				"mysql_n",
+				"mysql_num_rows"
+			],
+			[
+				"docu",
+				"document_id"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"tu",
+				"tup1"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"le",
+				"letters"
+			],
+			[
+				"cli",
+				"client_numero"
+			],
+			[
+				"trade",
+				"trademark-logo"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"head",
+				"heading"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"err",
+				"error_reporting"
+			],
+			[
+				"uniq",
+				"unique"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"Con",
+				"Controller"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"login",
+				"loginPost"
+			],
+			[
+				"priori",
+				"priority_claim_nationality"
+			],
+			[
+				"pdf",
+				"pdf_id"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"Todo",
+				"TodoForm"
+			],
+			[
+				"c",
+				"completed"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"Td",
+				"TodoList"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"scr",
+				"ScrollTo"
+			],
+			[
+				"pb",
+				"pb_err"
+			],
+			[
+				"de",
+				"deleteCharHandler"
+			],
+			[
+				"chan",
+				"changeInputHandler"
+			],
+			[
+				"pers",
+				"person"
+			],
+			[
+				"p",
+				"personIndex"
+			],
+			[
+				"per",
+				"persons"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"nam",
+				"nameChangedHandler"
+			],
+			[
+				"User",
+				"UserInput"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"edit",
+				"editAge"
+			],
+			[
+				"ini",
+				"ini_set"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 267.0,
+		"history":
+		[
+			"ls",
+			"l",
+			"python a.py",
+			"clr",
+			"cls",
+			"exit",
+			"clear",
+			"ls",
+			"node language_translator.v2.js",
+			"pwd",
+			"node a.js"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/tarak/simple_python/calculator.py",
+		"/tmp/fz3temp-1/a.php",
+		"/tmp/fz3temp-1/.env",
+		"/tmp/fz3temp-1/ReportsController.php",
+		"/home/tarak/Desktop/BN_LAW/03_04_2020/1.env",
+		"/home/tarak/Desktop/BN_LAW/22_02_2021/auto_docs/assignment_of_quota_docs.js",
+		"/home/tarak/Desktop/BN_LAW/22_02_2021/auto_docs/Single_Quota_Docs.js",
+		"/home/tarak/Desktop/BN_LAW/03_04_2020/config/constants.php",
+		"/tmp/fz3temp-1/dcb-config.php",
+		"/tmp/fz3temp-1/config.php",
+		"/tmp/fz3temp-1/app.php",
+		"/tmp/fz3temp-1/ScriptController 2.php",
+		"/tmp/fz3temp-1/web.php",
+		"/tmp/fz3temp-1/constants 2.php",
+		"/tmp/fz3temp-1/ScriptController.php",
+		"/tmp/fz3temp-1/.env 2",
+		"/home/tarak/Desktop/BN_LAW/03_04_2020/config/mail.php",
+		"/tmp/fz3temp-1/mail.php",
+		"/home/tarak/simple_python/prime.py",
+		"/home/tarak/Desktop/BN_LAW/Login Details.txt",
+		"/tmp/fz3temp-1/e.php",
+		"/tmp/fz3temp-1/Email.php",
+		"/tmp/fz3temp-1/constants.php",
+		"/tmp/fz3temp-1/constants_06_01_2021.php",
+		"/tmp/fz3temp-1/index.php",
+		"/tmp/fz3temp-1/Users_model.php",
+		"/home/tarak/Desktop/BN_LAW/22_02_2021/Assignment_of_quota.status;",
+		"/tmp/fz3temp-1/c.php",
+		"/home/tarak/Desktop/BN_LAW/22_02_2021/Overseas.js",
+		"/home/tarak/Desktop/BN_LAW/22_02_2021/Single_Quota.js",
+		"/home/tarak/Desktop/BN_LAW/22_02_2021/assignment_of_quota.js",
+		"/home/tarak/Desktop/BN_LAW/22_02_2021/incorporation_company_quota.js",
+		"/tmp/fz3temp-1/d.php",
+		"/tmp/fz3temp-1/log",
+		"/tmp/fz3temp-1/.gitignore",
+		"/tmp/fz3temp-1/pdftk_autoload.php",
+		"/tmp/fz3temp-1/class.common.php",
+		"/tmp/fz3temp-1/Users_model 2.php",
+		"/tmp/fz3temp-1/index 2.php",
+		"/tmp/fz3temp-1/core.php",
+		"/tmp/fz3temp-1/PHPExcel.php",
+		"/tmp/fz3temp-1/class.NDApi 2.php",
+		"/tmp/fz3temp-1/class.NDApi 3.php",
+		"/tmp/fz3temp-1/log 3",
+		"/tmp/fz3temp-1/b.php",
+		"/tmp/fz3temp-1/log 2",
+		"/tmp/fz3temp-1/class.NDApi.php",
+		"/home/tarak/Desktop/comp_ndapi/staging_ndapi.php",
+		"/home/tarak/Desktop/comp_ndapi/live_ndapi.php",
+		"/tmp/fz3temp-1/pdf-converter.php",
+		"/tmp/fz3temp-1/url-tracking.php",
+		"/tmp/fz3temp-1/insert.php",
+		"/home/tarak/Downloads/data_over.json",
+		"/tmp/fz3temp-1/g20health-config.php",
+		"/tmp/fz3temp-1/index 3.php",
+		"/var/www/html/tiasha/a.php",
+		"/tmp/fz3temp-1/config 2.php",
+		"/tmp/fz3temp-1/global-config.php",
+		"/tmp/fz3temp-1/generateDBObjects.php",
+		"/tmp/fz3temp-1/ContactController.php",
+		"/tmp/fz3temp-1/Controller.php",
+		"/tmp/fz3temp-1/pdfmaker.js",
+		"/tmp/fz3temp-1/l.php",
+		"/tmp/fz3temp-1/a 2.php",
+		"/tmp/fz3temp-1/class.curl2.php",
+		"/home/tarak/Desktop/MyCodingHub/deno-oak-api-crud-angular-mongo-master/server.ts",
+		"/home/tarak/Desktop/MyCodingHub/deno-oak-api-crud-angular-mongo-master/controller/products.ts",
+		"/tmp/fz3temp-1/.htaccess",
+		"/home/tarak/Desktop/IDBI/Manas/fwdscript/import_bse_trainer_agent_hierarchy.php",
+		"/home/tarak/Desktop/IDBI/Manas/fwdscript/import_CWH.php",
+		"/home/tarak/Desktop/MyCodingHub/deno-oak-api-crud-angular-mongo-master/db/db-connect.ts",
+		"/tmp/fz3temp-1/class.smartyObject.php",
+		"/tmp/fz3temp-1/class.base.php",
+		"/tmp/fz3temp-1/Home_model.php",
+		"/tmp/fz3temp-1/top_nav_home.tpl",
+		"/tmp/fz3temp-1/Event_model.php",
+		"/home/tarak/Downloads/ldap.php",
+		"/tmp/fz3temp-1/KnowledgebaseController.php",
+		"/home/tarak/Downloads/ldap_test.php",
+		"/var/www/html/a.php",
+		"/tmp/fz3temp-1/EmailController.php",
+		"/tmp/fz3temp-1/indusnet-config.php",
+		"/tmp/fz3temp-1/UserController.php",
+		"/tmp/fz3temp-1/UserController 2.php",
+		"/tmp/fz3temp-1/composer 2.json",
+		"/tmp/fz3temp-1/short-url.php",
+		"/tmp/fz3temp-1/composer.lock",
+		"/tmp/fz3temp-1/config.js",
+		"/tmp/fz3temp-1/autoload 2.php",
+		"/tmp/fz3temp-1/CalenderController.php",
+		"/home/tarak/Downloads/composerfile/composer.json",
+		"/tmp/fz3temp-1/composer.json",
+		"/tmp/fz3temp-1/autoload.php",
+		"/tmp/fz3temp-1/MattersController.php",
+		"/home/tarak/Downloads/composerfile/composer.lock",
+		"/tmp/fz3temp-1/class.display.php",
+		"/tmp/fz3temp-1/AuthController.php",
+		"/tmp/fz3temp-1/class.curl.php",
+		"/home/tarak/Desktop/Passive Eyes Docs/29_09_2020/main.js",
+		"/home/tarak/Desktop/passive-eye/build/dashboard-dashboard-module.js",
+		"/home/tarak/Desktop/passive-eye/build/component-component-module.js",
+		"/tmp/fz3temp-1/TaskController.php",
+		"/tmp/fz3temp-1/Authenticate.php",
+		"/tmp/fz3temp-1/LeadsController.php",
+		"/home/tarak/Desktop/MyFolder/Maa-CT Scan/System Volume Information/IndexerVolumeGuid",
+		"/home/tarak/Desktop/MyFolder/Maa-CT Scan/System Volume Information/WPSettings.dat",
+		"/tmp/fz3temp-1/a 3.php",
+		"/tmp/fz3temp-1/class.browOS.php",
+		"/tmp/fz3temp-1/Mailbox.php",
+		"/tmp/fz3temp-1/Imap.php",
+		"/home/tarak/Desktop/BN_LAW/02_09_2020/installed.json",
+		"/tmp/fz3temp-1/.htaccess 2",
+		"/tmp/fz3temp-1/inner_doc_list_table.tpl",
+		"/tmp/fz3temp-1/doc_list_table.tpl",
+		"/tmp/fz3temp-1/inner_doc_list1_table.tpl",
+		"/tmp/fz3temp-1/php_encrypt.php",
+		"/tmp/fz3temp-1/main.js.map",
+		"/tmp/fz3temp-1/main.js",
+		"/home/tarak/Desktop/BN_LAW/24_08_2020/a.html",
+		"/home/tarak/Desktop/passive-eye/.gitignore",
+		"/tmp/fz3temp-1/polyfills.js",
+		"/tmp/fz3temp-1/scripts.js",
+		"/tmp/fz3temp-1/runtime.js.map",
+		"/tmp/fz3temp-1/runtime.js",
+		"/home/tarak/Desktop/MyCodingHub/deno-mongodb-rest-api-master/server.ts",
+		"/home/tarak/Desktop/MyCodingHub/deno-mongodb-rest-api-master/routes.ts",
+		"/home/tarak/Desktop/MyCodingHub/deno-mongodb-rest-api-master/mongodb.ts",
+		"/home/tarak/Desktop/MyDeno/test_post.ts"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 106.897102897,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 35.9680328369
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "__init__.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

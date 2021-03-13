@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block start %}
+
+    <div class="container mt-5">
+        <h2>{{ course.course_name }}</h2>
+        <img src="/media/{{ course.course_image }}" class="card-img-top" alt="">
+        <p>{{ course.course_desc|safe }}</p>
+        <a href="{% url 'home' %}" class="btn btn-primary mt-4">Back to All Course</a>
+    </div>
+
+
+
+{% endblock %}
