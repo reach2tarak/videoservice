@@ -90,7 +90,7 @@ def become_pro(request):
         if membership == 'YEARLY':
             amount = 11000
 
-        stripe.api_key = 'sk_test_51ITMcGC8w7nHhL7inTcMswyw0TIR7s5KF1NSjXEFQ2LRB54WuMI1IcAprnImmxjCyBCaEMv1oogp7d3juVQoqaGQ00EZEiFfNw'
+        stripe.api_key = ''
         customer = stripe.Customer.create(
             email = request.user.email,
             source = request.POST['stripeToken']
